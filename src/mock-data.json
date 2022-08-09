@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Gerry Dempsey",
+    "address": "183 Moss Road",
+    "phoneNumber": "7824683185",
+    "email": "gerrydeemo@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Jessica Dempsey",
+    "address": "2 Lambeg Road",
+    "phoneNumber": "8824683185",
+    "email": "jessyd@c2ken.net"
+  },
+  {
+    "id": 3,
+    "fullName": "Frank Fitzpatrick",
+    "address": "11 iron road",
+    "phoneNumber": "9824683185",
+    "email": "frank@outlook.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Gordon Dempsey",
+    "address": "333 cobblestone road",
+    "phoneNumber": "1824683185",
+    "email": "gordondempsey@hotmail.co.uk"
+  },
+  {
+    "id": 5,
+    "fullName": "Robert Downey JR",
+    "address": "99 tilted towers",
+    "phoneNumber": "2824683185",
+    "email": "rdj@gmail.com"
+  }
+]
